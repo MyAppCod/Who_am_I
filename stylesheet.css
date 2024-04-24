@@ -1,0 +1,70 @@
+.game {
+    text-align: center;
+    font-size: 50px;
+    font-family: cursive;
+    background-image: linear-gradient(to left, rgba(195, 241, 221, 0), rgb(233, 200, 195));
+}
+
+a:link {
+    text-decoration: none;
+}
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30;
+}
+
+.question {
+    display: contents;
+    margin-left: auto;
+    margin-right: auto; 
+    font-size: 13px;
+    font-style: inherit;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgba(114, 64, 153, 0.9);  
+}
+
+input {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30;
+    text-align: center;
+    width: 500px;
+    height: 30px;
+    font-size: x-large;
+    color: darkcyan;
+    font-family: cursive;
+    background-color: rgba(197, 188, 188, 0.1);
+}
+
+div {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    font-style: inherit;
+    font-size: large;
+    text-align: center;
+    font-family: Franklin Gothic Medium;
+    color: rgb(58, 159, 206);
+}
+
+button {
+    border-color: rgb(131, 200, 122);
+    background-color: rgba(161, 203, 195, 0.5);
+}
+
+img {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+img {
+    opacity: 0.95;
+}
+
